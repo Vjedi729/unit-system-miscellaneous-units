@@ -1,0 +1,23 @@
+{
+  "name": "@goggles/unit-system-miscellaneous-units",
+  "version": "1.0.0",
+  "description": "A set of pre-made units for my Unit System (at [Vjedi729/unit-system](https://github.com/Vjedi729/unit-system)). This is not intended to be used in production code, as the list of units will grow to be very large.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vjedi729/unit-system-miscellaneous-units.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vjedi729/unit-system-miscellaneous-units/issues"
+  },
+  "homepage": "https://github.com/Vjedi729/unit-system-miscellaneous-units#readme",
+  "dependencies": {
+    "@goggles/unit-system": "^1.1.1",
+    "@goggles/unit-system-si-units": "^1.0.0"
+  }
+}
