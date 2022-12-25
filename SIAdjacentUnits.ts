@@ -39,4 +39,7 @@ siAdjacentUnits.tonne =     RelativeUnit.MultipleOf(SIUnits.kilogram, 1000,     
 siAdjacentUnits.dalton =    RelativeUnit.MultipleOf(SIUnits.kilogram, 1.66053906660e-27,    new UnitNameConstruct('dalton', 'Da'))
 siAdjacentUnits.electronvolt = RelativeUnit.MultipleOf(SIUnits.joules, 1.602176634e-19,     new UnitNameConstruct('electronvolt', 'eV'))
 
-// TODO: Add neber, bell, and decibel
+// TODO: Add neper, bel, and decibel?
+
+export var SIAdjacentUnits = siAdjacentUnits
+export default SIAdjacentUnits
