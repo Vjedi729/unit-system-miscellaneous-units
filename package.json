@@ -1,6 +1,6 @@
 {
   "name": "@goggles/unit-system-miscellaneous-units",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A set of pre-made units for my Unit System (at [Vjedi729/unit-system](https://github.com/Vjedi729/unit-system)). This is not intended to be used in production code, as the list of units will grow to be very large.",
   "main": "index.js",
   "scripts": {
