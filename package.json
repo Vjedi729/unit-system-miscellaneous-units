@@ -18,6 +18,7 @@
   "homepage": "https://github.com/Vjedi729/unit-system-miscellaneous-units#readme",
   "dependencies": {
     "@goggles/unit-system": "^1.2.1",
+    "@goggles/unit-system-common-uscs-units": "^1.0.6",
     "@goggles/unit-system-si-units": "^1.0.0"
   }
 }
